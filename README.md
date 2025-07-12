@@ -9,9 +9,9 @@ Deployed on Netlify: [View Live App](https://magenta-seahorse-e6b65c.netlify.app
 ---
 
 ## 📸 Screenshots
-<img width="1920" height="2830" alt="1" src="https://github.com/user-attachments/assets/bb96f76a-b671-4c2f-b16e-f60e44550a3e" />
+<img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/bb96f76a-b671-4c2f-b16e-f60e44550a3e" />
 
-<img width="1887" height="785" alt="2" src="https://github.com/user-attachments/assets/809c21c8-185e-49fd-a5a6-fd430c53eea3" />
+<img width="500" height="500" alt="2" src="https://github.com/user-attachments/assets/809c21c8-185e-49fd-a5a6-fd430c53eea3" />
 
 
 
