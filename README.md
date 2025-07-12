@@ -13,7 +13,9 @@ Deployed on Netlify: [View Live App](https://magenta-seahorse-e6b65c.netlify.app
 
 <img width="500" height="500" alt="2" src="https://github.com/user-attachments/assets/809c21c8-185e-49fd-a5a6-fd430c53eea3" />
 
+<img width="500" height="500" alt="3" src="https://github.com/user-attachments/assets/f836ad7d-7a39-4d91-aa87-84fb50fbea3f" />
 
+<img width="500" height="500" alt="4" src="https://github.com/user-attachments/assets/9de72029-5491-4b65-8552-23764dc3aab6" />
 
 ### 🏠 Home Page
 - Displays all products fetched from the API.
